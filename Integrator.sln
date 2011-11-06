@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratorConsole", "IntegratorConsole.csproj", "{30D40C68-E6CB-4657-BE49-0C77B14DF59D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratorWindows", "IntegratorWindows\IntegratorWindows.csproj", "{06DA0758-7266-4198-BFBF-6BA4EF26BBF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D40C68-E6CB-4657-BE49-0C77B14DF59D}.Debug|x86.ActiveCfg = Debug|x86
+		{30D40C68-E6CB-4657-BE49-0C77B14DF59D}.Debug|x86.Build.0 = Debug|x86
+		{30D40C68-E6CB-4657-BE49-0C77B14DF59D}.Release|x86.ActiveCfg = Release|x86
+		{30D40C68-E6CB-4657-BE49-0C77B14DF59D}.Release|x86.Build.0 = Release|x86
+		{06DA0758-7266-4198-BFBF-6BA4EF26BBF3}.Debug|x86.ActiveCfg = Debug|x86
+		{06DA0758-7266-4198-BFBF-6BA4EF26BBF3}.Debug|x86.Build.0 = Debug|x86
+		{06DA0758-7266-4198-BFBF-6BA4EF26BBF3}.Release|x86.ActiveCfg = Release|x86
+		{06DA0758-7266-4198-BFBF-6BA4EF26BBF3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

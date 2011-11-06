@@ -1,0 +1,17 @@
+D:\projects\integrator\bin\Debug\Integrator.exe
+D:\projects\integrator\bin\Debug\Integrator.pdb
+D:\projects\integrator\bin\Debug\GitSharp.Core.dll
+D:\projects\integrator\bin\Debug\GitSharp.dll
+D:\projects\integrator\bin\Debug\Tamir.SharpSSH.dll
+D:\projects\integrator\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\projects\integrator\bin\Debug\Winterdom.IO.FileMap.dll
+D:\projects\integrator\bin\Debug\DiffieHellman.dll
+D:\projects\integrator\bin\Debug\Org.Mentalis.Security.dll
+D:\projects\integrator\bin\Debug\GitSharp.pdb
+D:\projects\integrator\bin\Debug\GitSharp.xml
+D:\projects\integrator\bin\Debug\GitSharp.Core.pdb
+D:\projects\integrator\bin\Debug\GitSharp.Core.xml
+D:\projects\integrator\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\projects\integrator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\projects\integrator\obj\x86\Debug\Integrator.exe
+D:\projects\integrator\obj\x86\Debug\Integrator.pdb
