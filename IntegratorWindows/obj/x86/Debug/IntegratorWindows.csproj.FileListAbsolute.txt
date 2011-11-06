@@ -19,3 +19,4 @@ D:\projects\Integrator\IntegratorWindows\obj\x86\Debug\GenerateResource.read.1.t
 D:\projects\Integrator\IntegratorWindows\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\projects\Integrator\IntegratorWindows\obj\x86\Debug\IntegratorWindows.exe
 D:\projects\Integrator\IntegratorWindows\obj\x86\Debug\IntegratorWindows.pdb
+D:\projects\Integrator\IntegratorWindows\bin\Debug\IntegratorWindows.exe.config

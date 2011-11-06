@@ -1,0 +1,17 @@
+D:\projects\integrator\IntegratorData\bin\Debug\IntegratorData.dll
+D:\projects\integrator\IntegratorData\bin\Debug\IntegratorData.pdb
+D:\projects\integrator\IntegratorData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\projects\integrator\IntegratorData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\projects\integrator\IntegratorData\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\projects\integrator\IntegratorData\bin\Debug\Microsoft.Practices.Unity.dll
+D:\projects\integrator\IntegratorData\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\projects\integrator\IntegratorData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\projects\integrator\IntegratorData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\projects\integrator\IntegratorData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\projects\integrator\IntegratorData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\projects\integrator\IntegratorData\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\projects\integrator\IntegratorData\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\projects\integrator\IntegratorData\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\projects\integrator\IntegratorData\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\integrator\IntegratorData\obj\Debug\IntegratorData.dll
+D:\projects\integrator\IntegratorData\obj\Debug\IntegratorData.pdb
